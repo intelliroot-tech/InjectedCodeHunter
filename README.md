@@ -3,7 +3,7 @@
 
 #How to use 
 
-The tool is pretty easy to use. You can download the tool from the following github <a href="https://github.com/intelliroot-tech/InjectedCodeHunter"><mark style="background: #d32525; color: #FFFFFF; padding: 1px 4px;">https://github.com/intelliroot-tech/InjectedCodeHunter</mark></a>
+The tool is pretty easy to use.
 The tool has both x86 and x64 versions. 
 You can run the tool from the command prompt running in administrator mode.
 The tool iterates through various processes by applying certain heuristics and is able to identify the injected code.
