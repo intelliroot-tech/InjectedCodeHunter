@@ -1,7 +1,7 @@
 # InjectedCodeHunter
 “Intelliroot Code Injection Hunter” is a tool that can to help you identify injected malicious code. The tool can identify and extract possibly injected code from the processes on a LIVE windows system. The tool can be used for Threat Hunting, Malware Analysis and Incident Response.
 
-#How to use 
+<h2>How to use </h2>
 
 The tool is pretty easy to use.
 The tool has both x86 and x64 versions. 
